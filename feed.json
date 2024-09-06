@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://sp3lllz.micro.blog/2024/09/06/man-i-really.html",
+				
+				"content_html": "<p>Man I really hope there’s a market for £500 clocks. I’m working on a desk clock that uses electromechanical 7 segment displays but the cost is adding up for parts and materials quite quickly from it being small batch hand made.</p>\n",
+				"content_text": "Man I really hope there’s a market for £500 clocks. I’m working on a desk clock that uses electromechanical 7 segment displays but the cost is adding up for parts and materials quite quickly from it being small batch hand made. \n",
+				"date_published": "2024-09-06T09:24:50+01:00",
+				"url": "https://sp3lllz.net/2024/09/06/man-i-really.html"
+			},
+			{
 				"id": "http://sp3lllz.micro.blog/2024/08/22/i-feel-sorry.html",
 				
 				"content_html": "<p>I feel sorry for the tindie webmaster right now</p>\n",
@@ -106,7 +114,7 @@
 				"id": "http://sp3lllz.micro.blog/2024/06/07/a-laptop-isnt.html",
 				
 				"content_html": "<p>A laptop isn’t yours until you put stickers on it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A laptop isn’t yours until you put stickers on it. \n\n<img src=\"uploads/2024/b4508855ed.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "A laptop isn’t yours until you put stickers on it. \n\n<img src=\"https://cdn.uploads.micro.blog/144746/2024/b4508855ed.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-06-07T17:06:13+01:00",
 				"url": "https://sp3lllz.net/2024/06/07/a-laptop-isnt.html"
 			},
@@ -122,7 +130,7 @@
 				"id": "http://sp3lllz.micro.blog/2024/06/02/send-this-to.html",
 				
 				"content_html": "<p>Send this to Gordon Ramsey to give him a scare.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Send this to Gordon Ramsey to give him a scare. \n\n<img src=\"uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Send this to Gordon Ramsey to give him a scare. \n\n<img src=\"https://cdn.uploads.micro.blog/144746/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-06-02T08:29:48+01:00",
 				"url": "https://sp3lllz.net/2024/06/02/send-this-to.html"
 			},
